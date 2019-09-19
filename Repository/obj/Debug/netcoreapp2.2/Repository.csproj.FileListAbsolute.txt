@@ -1,0 +1,14 @@
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\Fabrica\source\repos\TddEstudo3\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete

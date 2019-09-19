@@ -1,0 +1,14 @@
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\bin\Debug\netcoreapp2.2\TddEstudo3.deps.json
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\bin\Debug\netcoreapp2.2\TddEstudo3.runtimeconfig.json
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\bin\Debug\netcoreapp2.2\TddEstudo3.runtimeconfig.dev.json
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\bin\Debug\netcoreapp2.2\TddEstudo3.dll
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\bin\Debug\netcoreapp2.2\TddEstudo3.pdb
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.csprojAssemblyReference.cache
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.csproj.CoreCompileInputs.cache
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.RazorAssemblyInfo.cache
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.RazorAssemblyInfo.cs
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.AssemblyInfoInputs.cache
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.AssemblyInfo.cs
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.RazorTargetAssemblyInfo.cache
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.dll
+C:\Users\Fabrica\source\repos\TddEstudo3\TddEstudo3\obj\Debug\netcoreapp2.2\TddEstudo3.pdb
